@@ -1,0 +1,11 @@
+C:\Users\Mustafa\source\repos\WindowsFormsApp21\WindowsFormsApp21\bin\Debug\WindowsFormsApp21.exe.config
+C:\Users\Mustafa\source\repos\WindowsFormsApp21\WindowsFormsApp21\bin\Debug\WindowsFormsApp21.exe
+C:\Users\Mustafa\source\repos\WindowsFormsApp21\WindowsFormsApp21\bin\Debug\WindowsFormsApp21.pdb
+C:\Users\Mustafa\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mustafa\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.Form1.resources
+C:\Users\Mustafa\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.Properties.Resources.resources
+C:\Users\Mustafa\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.exe
+C:\Users\Mustafa\source\repos\WindowsFormsApp21\WindowsFormsApp21\obj\Debug\WindowsFormsApp21.pdb
